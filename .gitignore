@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files / data
+*.csv
+*.parquet
+*.h5
+*.hdf5
